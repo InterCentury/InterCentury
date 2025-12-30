@@ -21,7 +21,7 @@ Aka Maruf Hasan
 - **Game Engine & Tools:** Unreal Engine (experience building interactive projects)  
 - **Projects:**  
   - **BinaryFetch** – a system information tool built in C++  
-  - **Interscan** – another C++ project focused on [brief description]  
+  - **Interscan** – another C++ project focused on terminal based folder tree   
 - **Software & Tools:** Visual Studio, VS Code, PyCharm, Unreal Engine, Code::Blocks, Git, GitHub, Figma, Terminal/Shell scripting  
 
 ---
