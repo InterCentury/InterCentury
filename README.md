@@ -43,7 +43,7 @@ I am deeply interested in **continuous learning** and actively exploring new tec
 | Terminal & CLI | Windows Terminal, Linux Shell |
 |OS| Windown, Arch Linux, Ubuntu, EndavourOS|
 
----
+
 
 ## 👻 About Me
 
@@ -72,7 +72,7 @@ I strive to create tools and projects that **not only solve problems but also im
 
 </div>
 
----
+
 
 
   
@@ -85,11 +85,7 @@ I strive to create tools and projects that **not only solve problems but also im
 
 
 ## 🚀 Let's Connect
+[![Discord](https://img.shields.io/badge/Discord-Interblink-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Interblink)
+[![Instagram](https://img.shields.io/badge/Instagram-interBlink-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/interBlink)
 
-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/intercentury) 
-- [LinkedIn](https://www.linkedin.com/in/YourLinkedIn) *(optional)*  
-- [Portfolio / Projects](#) *(optional)*  
 
----
-
-*“Code is not just lines of text; it’s a reflection of thought, problem-solving, and creativity. I aim to build software that matters.”* ✨
