@@ -54,27 +54,33 @@ I am deeply interested in **continuous learning** and actively exploring new tec
 
 I strive to create tools and projects that **not only solve problems but also improve workflows** and help the developer community. My journey is just beginning, and I aim to grow through hands-on experience, experimentation, and collaboration.
 
-<table>
-  <tr>
-    <td>
-      <!-- GitHub Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=InterCentury&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" />
-      <br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=InterCentury&theme=dracula&hide_border=false" />
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InterCentury&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    </td>
-    <td>
-      <!-- Top Contributed Repo -->
-      <img src="https://github-contributor-stats.vercel.app/api?username=InterCentury&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-      <br/>
-      <!-- Visitor Count -->
-      <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=InterCentury&icon=0&color=0" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <!-- Profile Summary Cards -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InterCentury&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=InterCentury&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=InterCentury&theme=github_dark&utcOffset=6" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=InterCentury&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=InterCentury&theme=github_dark" />
+
+  
+
+  <!-- Activity Graph -->
+  <a href="https://github.com/InterCentury/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=InterCentury&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true" />
+  </a>
+
+</div>
+
+---
+
+
+  
+
+
+
+
+
 
 
 
