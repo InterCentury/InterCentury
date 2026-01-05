@@ -44,14 +44,6 @@ I am deeply interested in **continuous learning** and actively exploring new tec
 |OS| Windown, Arch Linux, Ubuntu, EndavourOS|
 
 
-
-## 👻 About Me
-
-- Age: 16  
-- Education: Class/Grade 10th  
-- Location: Dhaka, Bangladesh  
-- Core Philosophy: **Continuous learning, meaningful software development, open source contribution**  
-
 I strive to create tools and projects that **not only solve problems but also improve workflows** and help the developer community. My journey is just beginning, and I aim to grow through hands-on experience, experimentation, and collaboration.
 
 <div align="center">
