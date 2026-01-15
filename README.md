@@ -1,5 +1,5 @@
 ![Alt text](121233.png)
-![Alt text](https://github.com/InterCentury/BinaryFetch/blob/main/Previews/BinaryFetch_banner2.png?raw=true)
+![Alt text](https://github.com/InterCentury/BinaryFetch/raw/main/Previews/BinaryFetch_banner_v3.png?raw=true)
 # 🍀Greetings form InterCentury
 Aka Maruf Hasan
 
