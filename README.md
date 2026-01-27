@@ -1,6 +1,7 @@
-![Alt text](https://github.com/InterCentury/InterCentury/blob/main/gifs/hu-tao-scary-genshin-impact-moewalls-com.gif?raw=true)
 
-
+<p align="center">
+  <img src="https://github.com/InterCentury/InterCentury/blob/main/gifs/hu-tao-scary-genshin-impact-moewalls-com.gif?raw=true" width="100%">
+</p>
 
 
 
