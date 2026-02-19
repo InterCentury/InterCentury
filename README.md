@@ -95,15 +95,9 @@
 
 
 
+📚 [**Topics-Git-N-GitHub**](https://github.com/InterCentury/Topics-Git-N-GitHub) - This repository is created to store important notes and references related to Git and GitHub. It includes useful commands, commit message standards, documentation, workflows, tips, and small tricks…
 
-
-
-
-
-
-
-
-
+🎨 [**minimalistic-VS-code**](https://github.com/InterCentury/minimalistic-VS-code) - This repository contains everything needed to reproduce a clean, productivity-focused VS Code look and behaviour. It includes two ways to apply the setup: using the full exported profile (fast, less…
 
 
 
