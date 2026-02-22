@@ -85,7 +85,7 @@
 🎟️ [**CPP-DSA-Playground**](https://github.com/InterCentury/cpp-dsa-playground) - This repository contains manual C++ implementations of data structures and algorithms, built without STL dependencies. Covers arrays, linked lists, stacks, queues, sorting, trees, graphs, and dynamic programming. Includes code, test cases, and complexity analysis. Designed for interview preparation and deep understanding of DSA fundamentals.
 
 
-🏛️ [**CPP-Museum**](https://github.com/InterCentury/CPP-Museum) - This reposity contains all of my handwritten cpp notes of 2023-2024. 
+🏛️ [**CPP-Museum**](https://github.com/InterCentury/CPP-Museum) - This repository contains all of my handwritten C++ notes from 2023-2024, including theories, practice problems, syntax references, and conceptual summaries — preserved as scanned copies of my original notebooks.
 
 🍟 [**BinaryFetch**](https://github.com/InterCentury/BinaryFetch) - A modular Windows system information fetcher built in C++ with deep customization and clean, scalable architecture. Inspired from Neofetch & Fastfetch 
 
