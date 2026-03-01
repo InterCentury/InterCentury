@@ -1,8 +1,8 @@
 
 <p align="center">
-<img src="https://github.com/InterCentury/InterCentury/blob/main/gifs/hu-tao-scary-genshin-impact-moewalls-com.gif?raw=true" width="100%"> 
+<img src= "https://github.com/InterCentury/InterCentury/blob/main/gifs/01_anime.gif?raw=true" width="100%"> 
 
-  
+  <!-- <img src="https://github.com/InterCentury/InterCentury/blob/main/gifs/hu-tao-scary-genshin-impact-moewalls-com.gif?raw=true" width="100%">  -->
   
    <!--   <img src="https://github.com/InterCentury/InterCentury/blob/main/gifs/wuwa.gif?raw=true" width="100%"> -->
 </p>
