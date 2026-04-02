@@ -12,32 +12,78 @@
 </p>
 
 
-
 <details>
-<summary>✨ Click me to expand magic ✨</summary>
+<summary>📖 Click to open book view</summary>
 
-![CPP Note 001 - InterCentury](https://github.com/InterCentury/CPP-Museum/blob/29c66396b730c6d6b4673f3aef8d57e2921efde5/Docs/001_cpp_note_intercentury.jpg)
+<table>
+<tr>
+<td>
 
-![CPP Note 003 - InterCentury](https://github.com/InterCentury/CPP-Museum/blob/725606e137a4a10f9de577720c134c919ffba225/Docs/003_cpp_note_intercentury.jpg)
+![001](https://github.com/InterCentury/CPP-Museum/blob/29c66396b730c6d6b4673f3aef8d57e2921efde5/Docs/001_cpp_note_intercentury.jpg)
 
-![CPP Note 006 - InterCentury](https://github.com/InterCentury/CPP-Museum/blob/dd005fed9aaf353da4caed6f569c28768f3b6d4b/Docs/006_cpp_note_intercentury.jpg)
+</td>
+<td>
 
-![CPP Note 008 - InterCentury](https://github.com/InterCentury/CPP-Museum/blob/3cc17137087b28038646faddf5579da33cc6438f/Docs/008_cpp_note_intercentury.jpg)
+![003](https://github.com/InterCentury/CPP-Museum/blob/725606e137a4a10f9de577720c134c919ffba225/Docs/003_cpp_note_intercentury.jpg)
 
-![CPP Note 051 - InterCentury](https://github.com/InterCentury/CPP-Museum/blob/03501412495f713b83ace92a52da6d5555bd400e/Docs/051_cpp_note_intercentury.jpg)
+</td>
+</tr>
 
-![CPP Note 054 - InterCentury](https://github.com/InterCentury/CPP-Museum/blob/8c6cefd4388bb3704cdab05b3cd55c74476c0b1f/Docs/054_cpp_note_intercentury.jpg)
+<tr>
+<td>
 
-![CPP Note 063 - InterCentury](https://github.com/InterCentury/CPP-Museum/blob/70d1501c751eeb56b2f3c84d16c943cf96944575/Docs/063_cpp_note_intercentury.jpg)
+![006](https://github.com/InterCentury/CPP-Museum/blob/dd005fed9aaf353da4caed6f569c28768f3b6d4b/Docs/006_cpp_note_intercentury.jpg)
 
-![CPP Note 128 - InterCentury](https://github.com/InterCentury/CPP-Museum/blob/31842f718de3dc4f1c85896d0a14ec3e5baa3f4f/Docs/128_cpp_note_intercentury.jpg)
+</td>
+<td>
 
-![CPP Note 132 - InterCentury](https://github.com/InterCentury/CPP-Museum/blob/d302892decb309808018320ef035fde1fb3346c3/Docs/132_cpp_note_intercentury.jpg)
+![008](https://github.com/InterCentury/CPP-Museum/blob/3cc17137087b28038646faddf5579da33cc6438f/Docs/008_cpp_note_intercentury.jpg)
 
-![CPP Note 134 - InterCentury](https://github.com/InterCentury/CPP-Museum/blob/2c4c250ef64b2390b1d4b036a7a6e5d5a9d45ec0/Docs/134_cpp_note_intercentury.jpg)
+</td>
+</tr>
+
+<tr>
+<td>
+
+![051](https://github.com/InterCentury/CPP-Museum/blob/03501412495f713b83ace92a52da6d5555bd400e/Docs/051_cpp_note_intercentury.jpg)
+
+</td>
+<td>
+
+![054](https://github.com/InterCentury/CPP-Museum/blob/8c6cefd4388bb3704cdab05b3cd55c74476c0b1f/Docs/054_cpp_note_intercentury.jpg)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+![063](https://github.com/InterCentury/CPP-Museum/blob/70d1501c751eeb56b2f3c84d16c943cf96944575/Docs/063_cpp_note_intercentury.jpg)
+
+</td>
+<td>
+
+![128](https://github.com/InterCentury/CPP-Museum/blob/31842f718de3dc4f1c85896d0a14ec3e5baa3f4f/Docs/128_cpp_note_intercentury.jpg)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+![132](https://github.com/InterCentury/CPP-Museum/blob/d302892decb309808018320ef035fde1fb3346c3/Docs/132_cpp_note_intercentury.jpg)
+
+</td>
+<td>
+
+![134](https://github.com/InterCentury/CPP-Museum/blob/2c4c250ef64b2390b1d4b036a7a6e5d5a9d45ec0/Docs/134_cpp_note_intercentury.jpg)
+
+</td>
+</tr>
+
+</table>
 
 </details>
-
 
 
 
