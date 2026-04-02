@@ -46,6 +46,9 @@
 
 </table>
 
+### Wanna explore more of my hand notes? 
+<h4> https://github.com/InterCentury/CPP-Museum </h4>
+
 </details>
 
 [![Instagram](https://img.shields.io/badge/Instagram-interBlink-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/interBlink)
