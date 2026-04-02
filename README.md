@@ -46,8 +46,8 @@
 
 </table>
 
-### Wanna explore more of my hand notes? 
-<h4> https://github.com/InterCentury/CPP-Museum </h4>
+ <h4>😃 Explore more:  https://github.com/InterCentury/CPP-Museum </h4>
+
 
 </details>
 
