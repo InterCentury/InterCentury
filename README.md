@@ -16,7 +16,7 @@
 [![Discord](https://img.shields.io/badge/Discord-InterCentury-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/intercentury)
 [![Pinterest](https://img.shields.io/badge/Pinterest-InterBlink-E4405F?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/interBlink)
 
-
+<!--
 
 
 <details>
