@@ -5,6 +5,7 @@
   <!-- <img src="https://github.com/InterCentury/InterCentury/blob/main/gifs/hu-tao-scary-genshin-impact-moewalls-com.gif?raw=true" width="100%">  -->
    
  <!--  ![Alt text](https://github.com/InterCentury/InterCentury/blob/main/img/neonview.jpg?raw=true) -->
+
   <!-- <img src= "https://github.com/InterCentury/InterCentury/blob/main/gifs/01_anime.gif?raw=true" width="100%"> -->
   <!--   <img src="https://github.com/InterCentury/InterCentury/blob/main/gifs/wuwa.gif?raw=true" width="100%"> -->
   <!--  <img src= "https://github.com/TokyoNet/WallScape/blob/main/gifs/anime-girl-eyes-rose-bloom-moewalls-com%20(2)%20(2)%20(2).gif?raw=true" width="100%"> -->
@@ -14,8 +15,8 @@
   <!--  <img src= "https://github.com/InterCentury/InterCentury/blob/main/gifs/hu-tao-scary-genshin-impact-moewalls-com.gif?raw=true" width="100%"> -->
 </p>
 
+![Short descriptive title of the image showing main subject and context](./img/34324333.jpg)
 
-![Document image](https://raw.githubusercontent.com/InterCentury/InterCentury/be5c5a92bccae7e4984d2e6daaa5c6742d24f505/img/Document.jpg)
 
 [![Instagram](https://img.shields.io/badge/Instagram-interBlink-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/interBlink)
 [![Discord](https://img.shields.io/badge/Discord-InterCentury-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/intercentury)
