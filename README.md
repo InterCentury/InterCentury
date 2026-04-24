@@ -21,7 +21,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-interBlink-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/interBlink)
 [![Discord](https://img.shields.io/badge/Discord-InterCentury-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/intercentury)
 [![Pinterest](https://img.shields.io/badge/Pinterest-InterBlink-E4405F?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/interBlink)
-![](https://komarev.com/ghpvc/?username=InterCentury&style=flat-square)
+
 
 
 
@@ -101,7 +101,7 @@
 
 🎨 [**minimalistic-VS-code**](https://github.com/InterCentury/minimalistic-VS-code) - This repository contains everything needed to reproduce a clean, productivity-focused VS Code look and behaviour. It includes two ways to apply the setup: using the full exported profile (fast, less…
 
-
+![](https://komarev.com/ghpvc/?username=InterCentury&style=flat-square&color=ff69b4)
 
 
 
