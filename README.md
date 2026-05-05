@@ -29,7 +29,12 @@
 <details>
 <summary><h3><span style="color:#00ffbb;">✨ Click here to expand magic</span></h2></summary>
 
- *Back in 2022, I was just 12 years old.I was obsessed with C++.Every single day, I tried to learn something new — no matter how small. Late nights, curiosity, confusion, excitement… it was all part of the journey.These files are the notes from that time.Today, they might not make perfect sense. They might not be efficient. They might not follow modern standards.But to me — they hold years of effort, growth, and beautiful memories*
+```
+Back in 2022, I was just 12 years old.I was obsessed with C++.Every single day, I tried to learn something
+new — no matter how small. Late nights, curiosity, confusion, excitement… it was all part of the journey.
+These files are the notes from that time.Today, they might not make perfect sense. They might not be efficient.
+They might not follow modern standards.But to me — they hold years of effort, growth, and beautiful memories*
+```
 
 <table width="100%">
 <tr>
