@@ -101,6 +101,8 @@
 
 🎨 [**minimalistic-VS-code**](https://github.com/InterCentury/minimalistic-VS-code) - This repository contains everything needed to reproduce a clean, productivity-focused VS Code look and behaviour. It includes two ways to apply the setup: using the full exported profile (fast, less…
 
+⛑️ [**Math-Keyboard**](https://github.com/InterCentury/Math-Keyboard) - This repository contains an AutoHotkey script designed to make typing math and physics symbols much easier on Windows. Entering these symbols normally is frustrating and slow. To solve this problem… 
+
 ![](https://komarev.com/ghpvc/?username=InterCentury&style=flat-square&color=ff69b4)
 
 
