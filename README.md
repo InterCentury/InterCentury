@@ -103,6 +103,8 @@
 
 ⛑️ [**Math-Keyboard**](https://github.com/InterCentury/Math-Keyboard) - This repository contains an AutoHotkey script designed to make typing math and physics symbols much easier on Windows. Entering these symbols normally is frustrating and slow. To solve this problem… 
 
+🦖 [**Auto-HotKey-Presets**](https://github.com/InterCentury/Auto-HotKey-Presets) - A collection of AutoHotkey string expansions and keyboard shortcuts for everything — math symbols, emojis, code snippets, typography, dates, email signatures, and custom text replacements. 
+
 ![](https://komarev.com/ghpvc/?username=InterCentury&style=flat-square&color=ff69b4)
 
 
