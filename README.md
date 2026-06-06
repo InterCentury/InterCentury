@@ -1,0 +1,185 @@
+
+<p align="center">
+
+
+  <!-- <img src="https://github.com/InterCentury/InterCentury/blob/main/gifs/hu-tao-scary-genshin-impact-moewalls-com.gif?raw=true" width="100%">  -->
+   
+ <!--  ![Alt text](https://github.com/InterCentury/InterCentury/blob/main/img/neonview.jpg?raw=true) -->
+
+  <!-- <img src= "https://github.com/InterCentury/InterCentury/blob/main/gifs/01_anime.gif?raw=true" width="100%"> -->
+  <!--   <img src="https://github.com/InterCentury/InterCentury/blob/main/gifs/wuwa.gif?raw=true" width="100%"> -->
+  <!--  <img src= "https://github.com/TokyoNet/WallScape/blob/main/gifs/anime-girl-eyes-rose-bloom-moewalls-com%20(2)%20(2)%20(2).gif?raw=true" width="100%"> -->
+
+  <img src= "https://github.com/InterCentury/InterCentury/blob/main/gifs/234234234234234%20(2).gif?raw=true" width="100%">
+  
+  <!--  <img src= "https://github.com/InterCentury/InterCentury/blob/main/gifs/hu-tao-scary-genshin-impact-moewalls-com.gif?raw=true" width="100%"> -->
+</p>
+
+![Short descriptive title of the image showing main subject and context](./img/34324333.jpg)
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-interBlink-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/interBlink)
+[![Discord](https://img.shields.io/badge/Discord-InterCentury-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/intercentury)
+[![Pinterest](https://img.shields.io/badge/Pinterest-InterBlink-E4405F?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/interBlink)
+
+
+
+
+
+<details>
+<summary><h3><span style="color:#00ffbb;">✨ Click here to expand magic</span></h2></summary>
+
+```
+Back in 2022, I was just 12 years old.I was obsessed with C++.Every single day, I tried to learn something
+new — no matter how small. Late nights, curiosity, confusion, excitement… it was all part of the journey.
+These files are the notes from that time.Today, they might not make perfect sense. They might not be efficient.
+They might not follow modern standards.But to me — they hold years of effort, growth, and beautiful memories*
+```
+
+<table width="100%">
+<tr>
+<td width="50%">
+<img src="https://github.com/InterCentury/CPP-Museum/blob/29c66396b730c6d6b4673f3aef8d57e2921efde5/Docs/001_cpp_note_intercentury.jpg" width="100%">
+</td>
+<td width="50%">
+<img src="https://github.com/InterCentury/CPP-Museum/blob/725606e137a4a10f9de577720c134c919ffba225/Docs/003_cpp_note_intercentury.jpg" width="100%">
+</td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/InterCentury/CPP-Museum/blob/dd005fed9aaf353da4caed6f569c28768f3b6d4b/Docs/006_cpp_note_intercentury.jpg" width="100%"></td>
+<td><img src="https://github.com/InterCentury/CPP-Museum/blob/3cc17137087b28038646faddf5579da33cc6438f/Docs/008_cpp_note_intercentury.jpg" width="100%"></td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/InterCentury/CPP-Museum/blob/03501412495f713b83ace92a52da6d5555bd400e/Docs/051_cpp_note_intercentury.jpg" width="100%"></td>
+<td><img src="https://github.com/InterCentury/CPP-Museum/blob/8c6cefd4388bb3704cdab05b3cd55c74476c0b1f/Docs/054_cpp_note_intercentury.jpg" width="100%"></td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/InterCentury/CPP-Museum/blob/70d1501c751eeb56b2f3c84d16c943cf96944575/Docs/063_cpp_note_intercentury.jpg" width="100%"></td>
+<td><img src="https://github.com/InterCentury/CPP-Museum/blob/31842f718de3dc4f1c85896d0a14ec3e5baa3f4f/Docs/128_cpp_note_intercentury.jpg" width="100%"></td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/InterCentury/CPP-Museum/blob/d302892decb309808018320ef035fde1fb3346c3/Docs/132_cpp_note_intercentury.jpg" width="100%"></td>
+<td><img src="https://github.com/InterCentury/CPP-Museum/blob/2c4c250ef64b2390b1d4b036a7a6e5d5a9d45ec0/Docs/134_cpp_note_intercentury.jpg" width="100%"></td>
+</tr>
+
+</table>
+
+ <h4>😃 Explore more:  https://github.com/InterCentury/CPP-Museum </h4>
+
+
+</details>
+
+
+
+### Quick Access 
+🛝 [**Academics-Playground-SSC-2027**](https://github.com/InterCentury/Academics-Playground-SSC-2027) - A personal collection of SSC 2027 notes, created with the help of AI and stored on GitHub to avoid messy local files. 
+
+⚡ [**TrippleE-EEE-Slops**](https://github.com/InterCentury/TrippleE-EEE-Slops) - This repository is a collection of personal notes and simplified documentation about basic electrical and electronics concepts. 
+
+🦺 [**Python-Playground**](https://github.com/InterCentury/Python-Playground) - A continuously evolving collection of Python experiments, utilities, practice scripts, and concept demonstrations. This repository serves as a personal sandbox for learning, testing ideas, and refi… 
+
+📒 [**File-Generator.py**](https://github.com/InterCentury/File-Generator.py) - FileGenerator.py is a python based filegenerator tool. It reads list of files from "Files List.txt" & generate files on specific location. A flexible python tool for generate mass files withn a secons 
+
+💻 [**cpp-playground**](https://github.com/InterCentury/cpp-playground) - cpp-playground – A sandbox for C++ learning and experiments, including basic programs, OOP, pointers, file handling, DSA, pattern printing, and math problem-solving. Perfect for practice, experimen… 
+
+🧩 [**InterCentury**](https://github.com/InterCentury/InterCentury) - This repository contains my GitHub profile README with custom GIFs, banners, and visual elements for profile customization and personal branding.
+
+
+🎟️ [**CPP-DSA-Playground**](https://github.com/InterCentury/cpp-dsa-playground) - This repository contains manual C++ implementations of data structures and algorithms, built without STL dependencies. Covers arrays, linked lists, stacks, queues, sorting, trees, graphs, and dynamic programming. Includes code, test cases, and complexity analysis. Designed for interview preparation and deep understanding of DSA fundamentals.
+
+
+🏛️ [**CPP-Museum**](https://github.com/InterCentury/CPP-Museum) - This repository contains all of my handwritten C++ notes from 2023-2024, including theories, practice problems, syntax references, and conceptual summaries — preserved as scanned copies of my original notebooks.
+
+🍟 [**BinaryFetch**](https://github.com/InterCentury/BinaryFetch) - A modular Windows system information fetcher built in C++ with deep customization and clean, scalable architecture. Inspired from Neofetch & Fastfetch 
+
+🎯 [**HUB-UnrealEngine**](https://github.com/InterCentury/HUB-UnrealEngine) - My personal Unreal Engine learning hub — documenting everything from beginner experiments to advanced systems. 
+
+📂 [**InterScan-terminal-based-file-structure-previewer**](https://github.com/InterCentury/InterScan-terminal-based-file-structure-previewer) - InterScan recursively scans a directory and prints a clean, tree-like view of folders and files with color-coded output, optional file-extension ignoring, and robust input parsing. 
+
+
+
+📚 [**Topics-Git-N-GitHub**](https://github.com/InterCentury/Topics-Git-N-GitHub) - This repository is created to store important notes and references related to Git and GitHub. It includes useful commands, commit message standards, documentation, workflows, tips, and small tricks…
+
+🎨 [**minimalistic-VS-code**](https://github.com/InterCentury/minimalistic-VS-code) - This repository contains everything needed to reproduce a clean, productivity-focused VS Code look and behaviour. It includes two ways to apply the setup: using the full exported profile (fast, less…
+
+⛑️ [**Math-Keyboard**](https://github.com/InterCentury/Math-Keyboard) - This repository contains an AutoHotkey script designed to make typing math and physics symbols much easier on Windows. Entering these symbols normally is frustrating and slow. To solve this problem… 
+
+🦖 [**Auto-HotKey-Presets**](https://github.com/InterCentury/Auto-HotKey-Presets) - A collection of AutoHotkey string expansions and keyboard shortcuts for everything — math symbols, emojis, code snippets, typography, dates, email signatures, and custom text replacements. 
+
+💹 [**DOCS-Global-Finance-Infrastructure**](https://github.com/InterCentury/DOCS-Global-Finance-Infrastructure) - This repository is designed as a structured learning resource for students, developers, researchers, and anyone interested in how money moves digitally through banks, payment processors, and international financial networks. 
+
+![](https://komarev.com/ghpvc/?username=InterCentury&style=flat-square&color=ff69b4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
