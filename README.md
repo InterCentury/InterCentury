@@ -14,7 +14,7 @@
   
   <!--  <img src= "https://github.com/InterCentury/InterCentury/blob/main/gifs/hu-tao-scary-genshin-impact-moewalls-com.gif?raw=true" width="100%"> -->
   
-   <img src= "https://github.com/InterCentury/InterCentury/blob/main/gifs/furina-under-dark-skies.4xDS.gif?raw=true" width="100%">
+   <img src= "https://github.com/InterCentury/InterCentury/blob/main/gifs/furina%20gif2%20(2).gif?raw=true" width="100%">
    
 </p>
 
