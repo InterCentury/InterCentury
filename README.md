@@ -25,7 +25,7 @@
 
 
 
-
+<!--
 <details>
 <summary><h3><span style="color:#00ffbb;">✨ Click here to expand magic</span></h2></summary>
 
@@ -35,7 +35,7 @@ new — no matter how small. Late nights, curiosity, confusion, excitement… it
 These files are the notes from that time.Today, they might not make perfect sense. They might not be efficient.
 They might not follow modern standards.But to me — they hold years of effort, growth, and beautiful memories*
 ```
-
+-->
 <table width="100%">
 <tr>
 <td width="50%">
@@ -67,12 +67,12 @@ They might not follow modern standards.But to me — they hold years of effort, 
 </tr>
 
 </table>
-
+<!--
  <h4>😃 Explore more:  https://github.com/InterCentury/CPP-Museum </h4>
 
 
 </details>
-
+-->
 
 
 ### Quick Access 
