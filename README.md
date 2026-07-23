@@ -18,8 +18,6 @@
    
 </p>
 
-![Short descriptive title of the image showing main subject and context](./img/34324333.jpg)
-
 
 
 
@@ -116,6 +114,8 @@ They might not follow modern standards.But to me — they hold years of effort, 
 ![](https://komarev.com/ghpvc/?username=InterCentury&style=flat-square&color=ff69b4)
 
 
+![Short descriptive title of the image showing main subject and context](./
+img/34324333.jpg)
 [![Instagram](https://img.shields.io/badge/Instagram-interBlink-E4405F?
 style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.
 com/interBlink)
