@@ -114,7 +114,7 @@ represent years of work, progress, and meaningful memories.
 
 🦖 [**Auto-HotKey-Presets**](https://github.com/InterCentury/Auto-HotKey-Presets) - A collection of AutoHotkey string expansions and keyboard shortcuts for everything — math symbols, emojis, code snippets, typography, dates, email signatures, and custom text replacements. 
 
-💹 [**DOCS-Global-Finance-Infrastructure**](https://github.com/InterCentury/DOCS-Global-Finance-Infrastructure) - This repository is designed as a structured learning resource for students, developers, researchers, and anyone interested in how money moves digitally through banks, payment processors, and international financial networks. 
+💹 [**DOCS-FinTech-Networking**](https://github.com/InterCentury/DOCS-Global-Finance-Infrastructure) - This repository is designed as a structured learning resource for students, developers, researchers, and anyone interested in how money moves digitally through banks, payment processors, and international financial networks. 
 
 ![](https://komarev.com/ghpvc/?username=InterCentury&style=flat-square&color=ff69b4)
 
