@@ -73,10 +73,10 @@ represent years of work, progress, and meaningful memories.
 </tr>
 
 </table>
+
+ <h4> Explore more:  https://github.com/InterCentury/CPP-Museum </h4>
+
 <!--
- <h4>😃 Explore more:  https://github.com/InterCentury/CPP-Museum </h4>
-
-
 </details>
 -->
 
