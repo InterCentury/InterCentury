@@ -30,15 +30,6 @@
 <details>
 <summary><h3><span style="color:#00ffbb;">✨ Click here to expand magic</span></h2></summary>
 -->
-```
-In 2022, I was 12 years old and deeply engaged with C++. 
-Every day, I pursued at least one new lesson, regardless 
-of how minor. The experience included late nights, curiosity, 
-confusion, and excitement. These files are the notes I kept 
-during that time. Today, they may lack clarity, efficiency, 
-or alignment with current standards. Yet for me, they 
-represent years of work, progress, and meaningful memories.
-```
 
 <table width="100%">
 <tr>
